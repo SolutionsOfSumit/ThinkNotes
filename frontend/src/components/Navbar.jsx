@@ -7,7 +7,7 @@ const Navbar = () => {
             <div className="mx-auto max-w-6xl px-4 py-4">
                 <div className="flex items-center justify-between">
                     <h1 className="text-3xl font-bold text-primary font-mono tracking-tighter text-red-700">
-                        ThinkNote
+                        ThinkNotes
                     </h1>
                     <div className="flex items-center gap-4">
                         <Link to="/create" className="btn btn-primary bg-red-700">
