@@ -1,6 +1,5 @@
 # ThinkBoard 📝
 
-# The Website is online
 https://thinknotes-ssa9.onrender.com/
 
 ThinkBoard is a premium, minimalist note-taking web application designed with a sleek glassmorphic dark-mode UI. It features a complete CRUD (Create, Read, Update, Delete) flow powered by a robust Express/MongoDB backend, and includes intelligent API rate-limiting via Upstash Redis to prevent spam.
